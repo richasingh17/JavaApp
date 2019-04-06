@@ -6,9 +6,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>change is here you see</title>
+<title>here you see the change</title>
 </head>
 <body>
-<h1>Hello Richa, i am changed</h1>
+<h1>Hello Richa, you are not studying enough</h1>
 </body>
 </html>

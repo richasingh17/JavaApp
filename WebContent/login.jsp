@@ -19,6 +19,9 @@
         <body>
             <form:form id="loginForm" modelAttribute="login" class="form-group" action="loginProcess" method="post">
                 <table align="center">
+		    <th>
+			    FORM-Login
+	            </th>
                     <tr>
                         <td>
                             <form:label path="username">Username: </form:label>

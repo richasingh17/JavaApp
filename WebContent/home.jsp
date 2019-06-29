@@ -10,7 +10,7 @@
             <tr>
                 <td><a href="login">Login</a>
                 </td>
-                <td><a href="register">Register</a>
+                <td><a href="register">Register here</a>
                 </td>
             </tr>
         </table>

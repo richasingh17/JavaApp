@@ -9,6 +9,6 @@
 <title>here you see the change</title>
 </head>
 <body>
-<h1>Hello Richa, you are not studying enough</h1>
+<h1>Hello Richa, hold on a little while longer</h1>
 </body>
 </html>
